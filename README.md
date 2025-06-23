@@ -5,7 +5,10 @@
 
 </div>
 
+These are all my Vencord plugins that are not yet in the [official Vencord repository](https://vencord.dev/plugins#d3sox).
 
+👆 [**SendButton**](https://github.com/owoyi/vencord-userplugins/tree/main/SendButton)
+Adds a send button to channels where you have the permission to send messages.
 
 
 # Install
