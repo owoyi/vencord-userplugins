@@ -12,7 +12,7 @@ Adds a send button to channels where you have the permission to send messages.
 
 
 
-
+  
   
 # Install
 
