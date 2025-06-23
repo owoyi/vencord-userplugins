@@ -33,4 +33,4 @@
 ---
 
 ## 스크린샷
-<img src="https://i.ibb.co/CSX0JWZ/aaaaaa.png" width="40%" height="30%"></img>
+![aaaaaa](https://github.com/user-attachments/assets/176a3f93-23f8-4dfa-99ea-61273b09575d)
