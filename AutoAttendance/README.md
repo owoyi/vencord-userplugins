@@ -30,6 +30,7 @@
 > Discord는 일반 사용자 계정을 이용한 자동화는 계정 정지 등의 제재로 이어질 수 있다고 명시하고 있습니다.   
 > **본 플러그인 사용으로 인한 계정 정지 등 불이익에 대해 제작자는 사전 고지를 완료하였으며, 일체의 책임을 지지 않습니다.**
 
-## 스크린샷
+---
 
-![image](https://i.ibb.co/CSX0JWZ/aaaaaa.png)
+## 스크린샷
+<img src="https://i.ibb.co/CSX0JWZ/aaaaaa.png" width="40%" height="30%"></img>
