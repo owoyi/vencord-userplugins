@@ -7,7 +7,7 @@
 
 These are all my Vencord plugins that are not yet in the [official Vencord repository](https://vencord.dev/plugins#d3sox).
 
-👆 [**SendButton**](https://github.com/owoyi/vencord-userplugins/tree/main/SendButton) `🍴 Forked `  
+👆 [**SendButton**](https://github.com/owoyi/vencord-userplugins/tree/main/SendButton) `🍴 Forked | 🗑️ built-in `  
 Adds a send button to channels where you have the permission to send messages.
 
 🗓️ [**AutoAttendance**](https://github.com/owoyi/vencord-userplugins/tree/main/AutoAttendance) `⚠️ Self-bot | 🌐 Korean `   
