@@ -16,7 +16,7 @@
 
 ## 🛠️ 설정 방법
 
-1. 플러그인을 설치하고 Vencord에서 활성화하세요. ([유저플러그인 설치 방법](https://github.com/owoyi/vencord-userplugins/tree/main?tab=readme-ov-file#install))
+1. 플러그인을 설치하고 Vencord에서 활성화하세요. ([🔗 유저플러그인 설치 방법](https://github.com/owoyi/vencord-userplugins/tree/main?tab=readme-ov-file#install))
 2. 설정창에서 각 출석 채널의 **채널 ID**와 **명령어**를 입력합니다.
 3. 사용하고 싶은 채널은 `활성화` 체크박스를 ON!
 4. 원한다면 자정 자동 확인 기능도 함께 활성화하세요.
