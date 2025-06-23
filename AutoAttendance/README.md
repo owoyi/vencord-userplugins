@@ -4,7 +4,7 @@
 
 ---
 
-## 🚨 주의 사항
+## 🚨 설치 전 주의 사항!
 
 > [!WARNING]
 > 본 플러그인은 일반 사용자 계정을 자동화하는 기능을 포함하고 있으며, 이는 Discord의 정책상 금지된 행위([Self-botting](https://support.discord.com/hc/ko/articles/115002192352-%EC%9E%90%EB%8F%99%ED%99%94%EB%90%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B3%84%EC%A0%95-%EC%85%80%ED%94%84%EB%B4%87))에 해당할 수 있습니다.   
