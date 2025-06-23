@@ -11,6 +11,9 @@ These are all my Vencord plugins that are not yet in the [official Vencord repos
 Adds a send button to channels where you have the permission to send messages.
 
 
+
+
+  
 # Install
 
 If you don't know how to install userplugins in the first place please see the manual [Vencord installation guide](https://docs.vencord.dev/installing/). If using Vesktop specify the location in Vesktop settings instead of running `pnpm inject`
