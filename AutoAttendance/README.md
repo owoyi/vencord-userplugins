@@ -32,5 +32,7 @@
 
 ---
 
-## 스크린샷
+## 🖼️ 스크린샷 (예시)
 ![aaaaaa](https://github.com/user-attachments/assets/176a3f93-23f8-4dfa-99ea-61273b09575d)
+![asdd](https://github.com/user-attachments/assets/a6ec2cde-d7af-4c92-8ab2-2723a31b01b8)
+
