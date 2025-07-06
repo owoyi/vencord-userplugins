@@ -7,7 +7,7 @@ Hide sidebar buttons. You can enter the button names you want to hide in the plu
 
 ## Preview
 
-![setting](https://github.com/owoyi/vencord-userplugins/blob/main/HideSidebarButton/images/setting.png?raw=true)
+![setting](https://github.com/owoyi/vencord-userplugins/blob/main/HideSidebarButton/images/setting.png?raw=true)    
 ![before](https://github.com/owoyi/vencord-userplugins/blob/main/HideSidebarButton/images/before.png?raw=true)
 To
 ![after](https://github.com/owoyi/vencord-userplugins/blob/main/HideSidebarButton/images/after.png?raw=true)
